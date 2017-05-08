@@ -6,6 +6,8 @@ TextRank_ implementation for text summarization and keyword extraction in Python
 
 .. _TextRank: http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
 
+# This fork is being ported to python 3
+
 Features
 --------
 
